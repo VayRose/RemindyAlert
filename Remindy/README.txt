@@ -1,0 +1,1 @@
+To open the EXE, open the BIN/Release and find the Remindy.exe double click to open.
